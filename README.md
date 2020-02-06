@@ -1,2 +1,2 @@
-# supeRobot
+# superobot
 ps-hyum
